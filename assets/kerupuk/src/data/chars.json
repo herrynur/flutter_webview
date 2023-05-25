@@ -1,0 +1,25 @@
+{
+	"chars":
+	[
+		{
+			"id": "char0",
+			"price": 0
+		},
+		{
+			"id": "char1",
+			"price": 10
+		},
+		{
+			"id": "char2",
+			"price": 10
+		},
+		{
+			"id": "char3",
+			"price": 10
+		},
+		{
+			"id": "char4",
+			"price": 10
+		}
+	]
+}

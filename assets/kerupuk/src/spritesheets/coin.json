@@ -1,0 +1,146 @@
+{
+	"textures": [
+		{
+			"image": "coin.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 57,
+				"h": 114
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "coin04.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 7,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 7,
+						"h": 32
+					},
+					"frame": {
+						"x": 2,
+						"y": 2,
+						"w": 7,
+						"h": 32
+					}
+				},
+				{
+					"filename": "coin01.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 32,
+						"h": 34
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 34
+					},
+					"frame": {
+						"x": 13,
+						"y": 2,
+						"w": 32,
+						"h": 34
+					}
+				},
+				{
+					"filename": "coin02.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 29,
+						"h": 34
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 29,
+						"h": 34
+					},
+					"frame": {
+						"x": 2,
+						"y": 40,
+						"w": 29,
+						"h": 34
+					}
+				},
+				{
+					"filename": "coin03.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 19,
+						"h": 34
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 19,
+						"h": 34
+					},
+					"frame": {
+						"x": 35,
+						"y": 40,
+						"w": 19,
+						"h": 34
+					}
+				},
+				{
+					"filename": "coin05.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 20,
+						"h": 34
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 20,
+						"h": 34
+					},
+					"frame": {
+						"x": 2,
+						"y": 78,
+						"w": 20,
+						"h": 34
+					}
+				},
+				{
+					"filename": "coin06.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 29,
+						"h": 34
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 29,
+						"h": 34
+					},
+					"frame": {
+						"x": 26,
+						"y": 78,
+						"w": 29,
+						"h": 34
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:6994cb825081a17930fc4fc3487ddb8e:0e87f6b702bf0b8eccd8495329efb410:37dcde439de7f7292f96409a4c62c08e$"
+	}
+}

@@ -1,0 +1,461 @@
+{
+	"textures": [
+		{
+			"image": "balls.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 798,
+				"h": 342
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "ball_baseball.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 110,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 110,
+						"h": 110
+					},
+					"frame": {
+						"x": 2,
+						"y": 2,
+						"w": 110,
+						"h": 110
+					}
+				},
+				{
+					"filename": "ball_basket.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 110,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 110,
+						"h": 110
+					},
+					"frame": {
+						"x": 116,
+						"y": 2,
+						"w": 110,
+						"h": 110
+					}
+				},
+				{
+					"filename": "ball_basket2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 110,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 110,
+						"h": 110
+					},
+					"frame": {
+						"x": 230,
+						"y": 2,
+						"w": 110,
+						"h": 110
+					}
+				},
+				{
+					"filename": "ball_beach.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 110,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 110,
+						"h": 110
+					},
+					"frame": {
+						"x": 344,
+						"y": 2,
+						"w": 110,
+						"h": 110
+					}
+				},
+				{
+					"filename": "ball_bowling.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 110,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 110,
+						"h": 110
+					},
+					"frame": {
+						"x": 458,
+						"y": 2,
+						"w": 110,
+						"h": 110
+					}
+				},
+				{
+					"filename": "ball_circus.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 110,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 110,
+						"h": 110
+					},
+					"frame": {
+						"x": 572,
+						"y": 2,
+						"w": 110,
+						"h": 110
+					}
+				},
+				{
+					"filename": "ball_cricket.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 110,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 110,
+						"h": 110
+					},
+					"frame": {
+						"x": 686,
+						"y": 2,
+						"w": 110,
+						"h": 110
+					}
+				},
+				{
+					"filename": "ball_dstar.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 110,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 110,
+						"h": 110
+					},
+					"frame": {
+						"x": 2,
+						"y": 116,
+						"w": 110,
+						"h": 110
+					}
+				},
+				{
+					"filename": "ball_eye.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 110,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 110,
+						"h": 110
+					},
+					"frame": {
+						"x": 116,
+						"y": 116,
+						"w": 110,
+						"h": 110
+					}
+				},
+				{
+					"filename": "ball_golf.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 110,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 110,
+						"h": 110
+					},
+					"frame": {
+						"x": 230,
+						"y": 116,
+						"w": 110,
+						"h": 110
+					}
+				},
+				{
+					"filename": "ball_lighting.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 110,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 110,
+						"h": 110
+					},
+					"frame": {
+						"x": 344,
+						"y": 116,
+						"w": 110,
+						"h": 110
+					}
+				},
+				{
+					"filename": "ball_marble.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 110,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 110,
+						"h": 110
+					},
+					"frame": {
+						"x": 458,
+						"y": 116,
+						"w": 110,
+						"h": 110
+					}
+				},
+				{
+					"filename": "ball_moon.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 110,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 110,
+						"h": 110
+					},
+					"frame": {
+						"x": 572,
+						"y": 116,
+						"w": 110,
+						"h": 110
+					}
+				},
+				{
+					"filename": "ball_nine.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 110,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 110,
+						"h": 110
+					},
+					"frame": {
+						"x": 686,
+						"y": 116,
+						"w": 110,
+						"h": 110
+					}
+				},
+				{
+					"filename": "ball_poke.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 110,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 110,
+						"h": 110
+					},
+					"frame": {
+						"x": 2,
+						"y": 230,
+						"w": 110,
+						"h": 110
+					}
+				},
+				{
+					"filename": "ball_soccer.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 110,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 110,
+						"h": 110
+					},
+					"frame": {
+						"x": 116,
+						"y": 230,
+						"w": 110,
+						"h": 110
+					}
+				},
+				{
+					"filename": "ball_tennis.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 110,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 110,
+						"h": 110
+					},
+					"frame": {
+						"x": 230,
+						"y": 230,
+						"w": 110,
+						"h": 110
+					}
+				},
+				{
+					"filename": "ball_volley.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 110,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 110,
+						"h": 110
+					},
+					"frame": {
+						"x": 344,
+						"y": 230,
+						"w": 110,
+						"h": 110
+					}
+				},
+				{
+					"filename": "ball_volley2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 110,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 110,
+						"h": 110
+					},
+					"frame": {
+						"x": 458,
+						"y": 230,
+						"w": 110,
+						"h": 110
+					}
+				},
+				{
+					"filename": "ball_wmelon.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 110,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 110,
+						"h": 110
+					},
+					"frame": {
+						"x": 572,
+						"y": 230,
+						"w": 110,
+						"h": 110
+					}
+				},
+				{
+					"filename": "ball_yarn.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 110,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 110,
+						"h": 110
+					},
+					"frame": {
+						"x": 686,
+						"y": 230,
+						"w": 110,
+						"h": 110
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:254d489f923e83691754e765375e2976:461ea5799839e651d23b3fbc0f6dcb84:af019c9df43c0315bbf2d16d758faea9$"
+	}
+}

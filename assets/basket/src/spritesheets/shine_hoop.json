@@ -1,0 +1,125 @@
+{
+	"textures": [
+		{
+			"image": "shine_hoop.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 282,
+				"h": 180
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "shine_hoop_0.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 278,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 278,
+						"h": 32
+					},
+					"frame": {
+						"x": 2,
+						"y": 2,
+						"w": 278,
+						"h": 32
+					}
+				},
+				{
+					"filename": "shine_hoop_1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 278,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 278,
+						"h": 32
+					},
+					"frame": {
+						"x": 2,
+						"y": 38,
+						"w": 278,
+						"h": 32
+					}
+				},
+				{
+					"filename": "shine_hoop_2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 278,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 278,
+						"h": 32
+					},
+					"frame": {
+						"x": 2,
+						"y": 74,
+						"w": 278,
+						"h": 32
+					}
+				},
+				{
+					"filename": "shine_hoop_3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 278,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 278,
+						"h": 32
+					},
+					"frame": {
+						"x": 2,
+						"y": 110,
+						"w": 278,
+						"h": 32
+					}
+				},
+				{
+					"filename": "shine_hoop_4.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 278,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 278,
+						"h": 32
+					},
+					"frame": {
+						"x": 2,
+						"y": 146,
+						"w": 278,
+						"h": 32
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:9f544fad0ca349edd5d0470e9e5f9676:f205e6d8afb80291cce8f4a77df14e4e:4a80dcd30d849a7a8c2a4783837b3218$"
+	}
+}

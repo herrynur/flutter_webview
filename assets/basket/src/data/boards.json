@@ -1,0 +1,37 @@
+{
+	"boards":
+	[
+		{
+			"id": "board.png",
+			"price": 0
+		},
+		{
+			"id": "board02.png",
+			"price": 5
+		},
+		{
+			"id": "board03.png",
+			"price": 5
+		},
+		{
+			"id": "board04.png",
+			"price": 5
+		},
+		{
+			"id": "board05.png",
+			"price": 5
+		},
+		{
+			"id": "board06.png",
+			"price": 5
+		},
+		{
+			"id": "board07.png",
+			"price": 5
+		},
+		{
+			"id": "board08.png",
+			"price": 5
+		}
+	]
+}

@@ -1,0 +1,85 @@
+{
+	"balls":
+	[
+		{
+			"id": "ball_basket.png",
+			"price": 0
+		},
+		{
+			"id": "ball_basket2.png",
+			"price": 5
+		},
+		{
+			"id": "ball_baseball.png",
+			"price": 5
+		},
+		{
+			"id": "ball_beach.png",
+			"price": 5
+		},
+		{
+			"id": "ball_bowling.png",
+			"price": 5
+		},
+		{
+			"id": "ball_circus.png",
+			"price": 5
+		},
+		{
+			"id": "ball_cricket.png",
+			"price": 5
+		},
+		{
+			"id": "ball_dstar.png",
+			"price": 5
+		},
+		{
+			"id": "ball_eye.png",
+			"price": 5
+		},
+		{
+			"id": "ball_golf.png",
+			"price": 5
+		},
+		{
+			"id": "ball_marble.png",
+			"price": 5
+		},
+		{
+			"id": "ball_moon.png",
+			"price": 5
+		},
+		{
+			"id": "ball_nine.png",
+			"price": 5
+		},
+		{
+			"id": "ball_poke.png",
+			"price": 5
+		},
+		{
+			"id": "ball_soccer.png",
+			"price": 5
+		},
+		{
+			"id": "ball_tennis.png",
+			"price": 5
+		},
+		{
+			"id": "ball_volley.png",
+			"price": 5
+		},
+		{
+			"id": "ball_volley2.png",
+			"price": 5
+		},
+		{
+			"id": "ball_wmelon.png",
+			"price": 5
+		},
+		{
+			"id": "ball_yarn.png",
+			"price": 5
+		}
+	]
+}

@@ -1,0 +1,37 @@
+{
+	"hoops":
+	[
+		{
+			"id": "hoop.png",
+			"price": 0
+		},
+		{
+			"id": "hoop02.png",
+			"price": 5
+		},
+		{
+			"id": "hoop03.png",
+			"price": 5
+		},
+		{
+			"id": "hoop04.png",
+			"price": 5
+		},
+		{
+			"id": "hoop05.png",
+			"price": 5
+		},
+		{
+			"id": "hoop06.png",
+			"price": 5
+		},
+		{
+			"id": "hoop07.png",
+			"price": 5
+		},
+		{
+			"id": "hoop08.png",
+			"price": 5
+		}
+	]
+}

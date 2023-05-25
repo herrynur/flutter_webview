@@ -1,0 +1,25 @@
+{
+	"floors":
+	[
+		{
+			"id": "floor.png",
+			"price": 0
+		},
+		{
+			"id": "floor02.png",
+			"price": 5
+		},
+		{
+			"id": "floor03.png",
+			"price": 5
+		},
+		{
+			"id": "floor04.png",
+			"price": 5
+		},
+		{
+			"id": "floor05.png",
+			"price": 5
+		}
+	]
+}

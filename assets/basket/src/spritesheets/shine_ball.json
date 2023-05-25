@@ -1,0 +1,503 @@
+{
+	"textures": [
+		{
+			"image": "shine_ball.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 912,
+				"h": 342
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "shine_ball_00.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 110,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 110,
+						"h": 110
+					},
+					"frame": {
+						"x": 2,
+						"y": 2,
+						"w": 110,
+						"h": 110
+					}
+				},
+				{
+					"filename": "shine_ball_01.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 110,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 110,
+						"h": 110
+					},
+					"frame": {
+						"x": 116,
+						"y": 2,
+						"w": 110,
+						"h": 110
+					}
+				},
+				{
+					"filename": "shine_ball_02.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 110,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 110,
+						"h": 110
+					},
+					"frame": {
+						"x": 230,
+						"y": 2,
+						"w": 110,
+						"h": 110
+					}
+				},
+				{
+					"filename": "shine_ball_03.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 110,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 110,
+						"h": 110
+					},
+					"frame": {
+						"x": 344,
+						"y": 2,
+						"w": 110,
+						"h": 110
+					}
+				},
+				{
+					"filename": "shine_ball_04.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 110,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 110,
+						"h": 110
+					},
+					"frame": {
+						"x": 458,
+						"y": 2,
+						"w": 110,
+						"h": 110
+					}
+				},
+				{
+					"filename": "shine_ball_05.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 110,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 110,
+						"h": 110
+					},
+					"frame": {
+						"x": 572,
+						"y": 2,
+						"w": 110,
+						"h": 110
+					}
+				},
+				{
+					"filename": "shine_ball_06.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 110,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 110,
+						"h": 110
+					},
+					"frame": {
+						"x": 686,
+						"y": 2,
+						"w": 110,
+						"h": 110
+					}
+				},
+				{
+					"filename": "shine_ball_07.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 110,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 110,
+						"h": 110
+					},
+					"frame": {
+						"x": 800,
+						"y": 2,
+						"w": 110,
+						"h": 110
+					}
+				},
+				{
+					"filename": "shine_ball_08.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 110,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 110,
+						"h": 110
+					},
+					"frame": {
+						"x": 2,
+						"y": 116,
+						"w": 110,
+						"h": 110
+					}
+				},
+				{
+					"filename": "shine_ball_09.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 110,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 110,
+						"h": 110
+					},
+					"frame": {
+						"x": 116,
+						"y": 116,
+						"w": 110,
+						"h": 110
+					}
+				},
+				{
+					"filename": "shine_ball_10.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 110,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 110,
+						"h": 110
+					},
+					"frame": {
+						"x": 230,
+						"y": 116,
+						"w": 110,
+						"h": 110
+					}
+				},
+				{
+					"filename": "shine_ball_11.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 110,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 110,
+						"h": 110
+					},
+					"frame": {
+						"x": 344,
+						"y": 116,
+						"w": 110,
+						"h": 110
+					}
+				},
+				{
+					"filename": "shine_ball_12.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 110,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 110,
+						"h": 110
+					},
+					"frame": {
+						"x": 458,
+						"y": 116,
+						"w": 110,
+						"h": 110
+					}
+				},
+				{
+					"filename": "shine_ball_13.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 110,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 110,
+						"h": 110
+					},
+					"frame": {
+						"x": 572,
+						"y": 116,
+						"w": 110,
+						"h": 110
+					}
+				},
+				{
+					"filename": "shine_ball_14.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 110,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 110,
+						"h": 110
+					},
+					"frame": {
+						"x": 686,
+						"y": 116,
+						"w": 110,
+						"h": 110
+					}
+				},
+				{
+					"filename": "shine_ball_15.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 110,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 110,
+						"h": 110
+					},
+					"frame": {
+						"x": 800,
+						"y": 116,
+						"w": 110,
+						"h": 110
+					}
+				},
+				{
+					"filename": "shine_ball_16.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 110,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 110,
+						"h": 110
+					},
+					"frame": {
+						"x": 2,
+						"y": 230,
+						"w": 110,
+						"h": 110
+					}
+				},
+				{
+					"filename": "shine_ball_17.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 110,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 110,
+						"h": 110
+					},
+					"frame": {
+						"x": 116,
+						"y": 230,
+						"w": 110,
+						"h": 110
+					}
+				},
+				{
+					"filename": "shine_ball_18.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 110,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 110,
+						"h": 110
+					},
+					"frame": {
+						"x": 230,
+						"y": 230,
+						"w": 110,
+						"h": 110
+					}
+				},
+				{
+					"filename": "shine_ball_19.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 110,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 110,
+						"h": 110
+					},
+					"frame": {
+						"x": 344,
+						"y": 230,
+						"w": 110,
+						"h": 110
+					}
+				},
+				{
+					"filename": "shine_ball_20.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 110,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 110,
+						"h": 110
+					},
+					"frame": {
+						"x": 458,
+						"y": 230,
+						"w": 110,
+						"h": 110
+					}
+				},
+				{
+					"filename": "shine_ball_21.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 110,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 110,
+						"h": 110
+					},
+					"frame": {
+						"x": 572,
+						"y": 230,
+						"w": 110,
+						"h": 110
+					}
+				},
+				{
+					"filename": "shine_ball_22.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 110,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 110,
+						"h": 110
+					},
+					"frame": {
+						"x": 686,
+						"y": 230,
+						"w": 110,
+						"h": 110
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:9f15344142bd438a3f542957f6dc97c8:1af9dd67f2edaf24fc5c09edcb1c379d:ba6a1b45faef463900219180a7e556da$"
+	}
+}
